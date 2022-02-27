@@ -8,3 +8,24 @@ body {
     color: white;
     font-size: 30px;
   }
+
+  #button1 {
+      text-align: left;
+  }
+
+  #button2,
+  #button3,
+  #button4,
+  #button5,
+  #button6 {
+    text-align: right;
+  }
+
+  .btn-btn-info {
+    background-color: black;
+	color: white;
+	width: 150px;
+	height: 40px;
+
+  }
+  
