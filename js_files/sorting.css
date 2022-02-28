@@ -11,14 +11,12 @@ body {
 
   #button1 {
       text-align: left;
+      
   }
 
-  #button2,
-  #button3,
-  #button4,
-  #button5,
-  #button6 {
+  #buttonA {
     text-align: right;
+    
   }
 
   .btn-btn-info {
@@ -28,4 +26,5 @@ body {
 	height: 40px;
 
   }
+
   
