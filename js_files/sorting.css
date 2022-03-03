@@ -2,31 +2,30 @@ body {
     background-color: #8A4117;
 }
 
+
 .heading {
-    padding: 60px;
-    text-align: center;
-    color: white;
-    font-size: 30px;
-  }
+  padding: 60px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
 
-  #button1 {
-      text-align: left;
-      
-  }
+.btn-btn-info {
+background-color: black;
+color: white;
+width: 150px;
+height: 40px;
 
-  #buttonA {
-    text-align: right;
-    
-  }
+}
 
-  .btn-btn-info {
-    background-color: black;
-	color: white;
-	width: 150px;
-	height: 40px;
+  
 
-  }
+  
 
+  .row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+}  
   
 
   
