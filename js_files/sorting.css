@@ -1,31 +1,13 @@
 body {
-    background-color: #8A4117;
+  background-color: coral;
 }
 
-
-.heading {
-  padding: 60px;
-  text-align: center;
-  color: white;
-  font-size: 30px;
-}
-
-.btn-btn-info {
-background-color: black;
-color: white;
-width: 150px;
-height: 40px;
-
-}
-
-  
-
-  
-
-  .row{
+.row{
     display: grid;
     grid-template-columns: 1fr 1fr 2fr;
 }  
+
+
   
 
   
